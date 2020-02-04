@@ -1,0 +1,10 @@
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki Search Robot.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki_Search_Robot.Form1.resources
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki_Search_Robot.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki Search Robot.csproj.GenerateResource.Cache
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki Search Robot.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\bin\Debug\Gotaki Search Robot.exe.config
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\bin\Debug\Gotaki Search Robot.exe
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\bin\Debug\Gotaki Search Robot.pdb
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki Search Robot.exe
+C:\Users\Vladimir\source\repos\Gotaki Search Robot\Gotaki Search Robot\obj\Debug\Gotaki Search Robot.pdb
